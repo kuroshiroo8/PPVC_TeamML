@@ -8,10 +8,10 @@ $apiInstance = new Meli\Api\OAuth20Api(
     new GuzzleHttp\Client()
 );
 $grant_type = 'authorization_code';
-$client_id = 'client_id_example'; // Your client_id
-$client_secret = 'client_secret_example'; // Your client_secret
-$redirect_uri = 'redirect_uri_example'; // Your redirect_uri
-$code = 'code_example'; // The parameter CODE
+$client_id = '4363478170680107'; // Your client_id
+$client_secret = 'pH84I1Ko0p7pddgglsH4XzRlXYUXl6ty'; // Your client_secret
+$redirect_uri = 'https://ppvcteamml.com/'; // Your redirect_uri
+$code = 'TG-5f8f9c20967c430006a6919d-659993463'; // The parameter CODE
 $refresh_token = 'refresh_token_example'; // Your refresh_token
 
 try {
